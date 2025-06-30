@@ -22,7 +22,7 @@ This project demonstrates my ability to design, develop, and deploy **smart cont
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/smart-contract-ballot-dapp.git
+git clone https://github.com/pr-of/smart-contract-ballot-dapp.git
 cd smart-contract-ballot-dapp
 npm install
 ```

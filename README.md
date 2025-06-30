@@ -43,4 +43,4 @@ npx hardhat test
 ```
 
 ## 📬 Contact
-For questions or collaborations, reach out via [Your LinkedIn] or [Your Email].
+For questions or collaborations, reach out via https://www.linkedin.com/in/sbdas-susmita/ or das.susmita63@gmail.com
